@@ -1,22 +1,22 @@
-# Иван Тарчевский, Frontend-разработчик
+# Ivan Tarchevsky, Frontend Developer
 
-32 года, опыт работы в сфере 8 лет
+32 years old, 8 years of experience in the field
 
-![Моё фото](/assets/images/me.png)
+![My photo](/assets/images/me.png)
 
-## Контакты для связи
+## Contact Information
 
 * **Telegram**: @tarchevsky
 * **E-mail**: i.tarchevsky@yandex.ru
 * **Discord nickname**: tarchevsky_i
 
-### Краткая информация о себе
+**Brief Information About Myself**
 
-**Опыт**. Начинал с SEO 8 лет назад, понял, что выгорел и больше возвращаться в профессию не хочу. Какое-то время на фрилансе брал заказы с правкой тем на wordpress, больше года работал с конструктором Elementor. Осознал, что интересно реализовывать нестандартные интерактивы и что на конструкторах далеко не уедешь, начал изучать вёрстку. Начал брать более крупные заказы, поработал несколько лет субподрядчиком на веб-студию. Для ускорения разработки написал свою библиотеку компонентов в том числе, чтобы лучше понять JS. Долго мечтал о работе с SPA, в итоге понял после работы над своей библиотекой, что сочетание компонентного подхода + UI + SPA - самое крутое, что я видел и хочу максимально уйти от вёрстки к логике на фронте и немного освобить бэк.
+**Experience**. I started with SEO 8 years ago, realized I was burnt out and didn't want to return to that profession. For some time, I took freelance orders modifying WordPress themes, worked with the Elementor constructor for over a year. I realized that I'm interested in implementing non-standard interactives and that constructors have limitations, so I began studying layout. I started taking larger orders, worked as a subcontractor for a web studio for several years. To speed up development, I wrote my own component library, partly to better understand JS. I long dreamed of working with SPA, and after working on my library, I realized that the combination of component approach + UI + SPA is the coolest thing I've seen, and I want to move as much as possible from layout to frontend logic and slightly free up the backend.
 
-*Недавно понял, что хочу окончательно избавиться от php в моей жизни и начал плотно изучать javascript. Хочется не только научиться во frontend, но и зацепить бэк. Поэтому начал учить react через next js, разделять frontend проектов с wordpress на wordpress как headless cms и nextjs + graphql для запросов с wp. Но знаний не хватает, главным образом теоретических, тонкостей js. Понимаю, что не могу пойти на интервью и устроиться работать в компанию. Хочу решить для себя этот вопрос и устроиться либо на удалёнку, либо в компанию junior разработчиком.*
+*Recently, I realized that I want to completely get rid of PHP in my life and started intensively studying JavaScript. I want to not only learn frontend but also touch the backend. So I started learning React through Next.js, separating frontend projects with WordPress into WordPress as a headless CMS and Next.js + GraphQL for queries from WP. But I lack knowledge, mainly theoretical, the intricacies of JS. I understand that I can't go to an interview and get a job in a company. I want to resolve this issue for myself and get a job either remotely or in a company as a junior developer.*
 
-**Несколько проектов ссылками**:
+**Several project links**:
 * https://gardex.ru/
 * https://expel-home.ru/udobreniya/
 * https://malvinapsy.ru/
@@ -24,7 +24,7 @@
 * https://github.com/tarchevsky/nepp-front
 * https://github.com/tarchevsky/ecotc-next.git
 
-**Пример кода с codewars**:
+**Code example from CodeWars**:
 
 ```js
 function sumArray(array) {
@@ -48,30 +48,30 @@ function sumArray(array) {
 }
 ```
 
-**Цель и приоритеты**. 
-  * Восполнить пробелы в знаниях и стать уверенным Middle разработчиком. 
-  * Научиться писать крутые сервисы с авторизациями, взаимодействиями
-  * Стать абсолютно автономным разработчиком и не зависеть от технологий
-  * Брать интересные проекты и кайфовать от работы
-  * Взаимодействовать с другими специалистами, учить и учиться новому
+**Goals and priorities**:
+* Fill knowledge gaps and become a confident Middle developer.
+* Learn to create cool services with authorizations, interactions
+* Become a completely autonomous developer and not depend on technologies
+* Take on interesting projects and enjoy work
+* Interact with other specialists, teach and learn new things
 
-**Сильные стороны**. Обожаю свою профессию, общаться, благодарен сложным задачам и вариативности реализаций этих задач, легко меняю технологии, всегда ищу что-то новое, по-хорошему ленивый человек - лучше оптимизировать, а не повторять раз за разом, обожаю учиться, упорен в решении проблем, открытый к общению
+**Strengths**. I love my profession, communicating, grateful for complex tasks and the variability of implementing these tasks, easily change technologies, always looking for something new, a positively lazy person - better to optimize than repeat over and over, love to learn, persistent in problem-solving, open to communication
 
-## Навыки, технологии
+## Skills, Technologies
 
-* **База** HTML/CSS/JS
-* **Препроцессоры** SCSS, SASS
-* **IDE** WebStorm, VSCode
-* **Библиотеки, фреймворки** React, NextJS, NestJS
-* **Другие технологии** Git, ORM Prisma, GraphQl, Postgresql
-* **Специальное ПО** Insomnia, TablePlus, Postgres App
+* **Basics** HTML/CSS/JS 
+* **Preprocessors** SCSS, SASS
+* **IDEs** WebStorm, VSCode
+* **Libraries, frameworks**: React, NextJS, NestJS
+* **Other technologies**: Git, ORM Prisma, GraphQL, PostgreSQL
+* **Special software**: Insomnia, TablePlus, Postgres App
 
-## Образование
+## Education
 
-Начинал с тренажеров HTMLAcademy. Учился по курсам вёрстки на Udemy Ивана Петриченко.
+Started with HTMLAcademy trainers. Studied layout courses on Udemy by Ivan Petrichenko.
 
-Проходил курсы PurpleSchool и Red Group по Next JS, Nest JS, React
+Completed courses from PurpleSchool and Red Group on Next JS, Nest JS, React
 
-## Языки
+## Languages
 
-Английский - Pre-Intermediate 
+English - Pre-Intermediate
