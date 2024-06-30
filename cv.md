@@ -17,12 +17,11 @@
 *Recently, I realized that I want to completely get rid of PHP in my life and started intensively studying JavaScript. I want to not only learn frontend but also touch the backend. So I started learning React through Next.js, separating frontend projects with WordPress into WordPress as a headless CMS and Next.js + GraphQL for queries from WP. But I lack knowledge, mainly theoretical, the intricacies of JS. I understand that I can't go to an interview and get a job in a company. I want to resolve this issue for myself and get a job either remotely or in a company as a junior developer.*
 
 **Several project links**:
-* https://gardex.ru/
-* https://expel-home.ru/udobreniya/
-* https://malvinapsy.ru/
-* https://rubymice.ru/
-* https://github.com/tarchevsky/nepp-front
-* https://github.com/tarchevsky/ecotc-next.git
+* [Gardex company website](https://gardex.ru/)
+* [Expert-home product line website](https://expel-home.ru/udobreniya/)
+* [Website for a psychologist - implemented using Next.js stack, GraphQL, WordPress as Headless CMS](https://malvinapsy.ru/)
+* [Clean markup for a company providing MICE services](https://rubymice.ru/)
+* [Student project using React](https://github.com/tarchevsky/nepp-front)
 
 **Code example from CodeWars**:
 
