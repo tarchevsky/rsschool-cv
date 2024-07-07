@@ -2,7 +2,7 @@
 
 32 years old, 8 years of experience in the field
 
-![My photo](/assets/images/me.png)
+![My photo](/images/me.png)
 
 ## Contact Information
 

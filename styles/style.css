@@ -68,3 +68,10 @@ main h1 {
 .logo > a:hover {
     color: rgba(51, 51, 51, 0.98);
 }
+
+.footer-container {
+    display: grid;
+    grid-template-columns: auto 100px auto;
+    align-items: center;
+    justify-content: space-between;
+}
