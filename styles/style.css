@@ -107,6 +107,10 @@ main h1 {
     color: rgba(51, 51, 51, 0.98);
 }
 
+.avatar {
+    margin: 20px 0;
+}
+
 .footer {
     padding: 20px 0;
 }
