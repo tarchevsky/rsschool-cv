@@ -20,6 +20,25 @@ a {
     color: inherit;
 }
 
+pre {
+    padding: 15px;
+
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    line-height: 1.4;
+
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+
+    overflow-x: auto;
+}
+
+code {
+    color: #333;
+}
+
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
@@ -37,9 +56,10 @@ a {
 .header nav > ul {
     display: flex;
     gap: 20px;
-    list-style: none;
     margin: 0;
     padding: 0;
+
+    list-style: none;
 }
 
 .header nav > ul > li {
@@ -47,8 +67,10 @@ a {
 }
 
 .header nav > ul > li > a {
-    border-bottom:  2px solid  transparent;
     text-decoration: none;
+
+    border-bottom:  2px solid  transparent;
+
     transition: border-bottom  0.3s ease;
 }
 
@@ -62,11 +84,13 @@ main h1 {
 
 .logo {
     padding-left: 20px;
+
     border-left: 2px solid #000;
 }
 
 .logo > a {
     text-decoration: none;
+
     transition: color  0.3s ease;
 }
 
